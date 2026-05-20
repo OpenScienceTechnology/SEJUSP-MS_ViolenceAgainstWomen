@@ -32,7 +32,7 @@ CÓDIGO IBGE	Código IBGE do município (7 dígitos)
 BAIRRO	Bairro ou localidade da ocorrência
 📈 Estatísticas Rápidas
 Indicador	Valor
-🗓️ Período	2016 – 2026
+🗓️ Período	2016 – 2026 (maio) parcial
 📍 Municípios	79
 🏙️ Principal município	Campo Grande
 🏷️ Principais tipos	Homicídio Doloso, Feminicídio, Latrocínio
