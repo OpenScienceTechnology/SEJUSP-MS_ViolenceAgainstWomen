@@ -2,7 +2,7 @@
 
 https://www.dados.ms.gov.br/dataset/crimes-violentos-letais-intencionais-sejusp/resource/crimes-violentos-letais-intencionais-sejusp
 
-🚨 Dataset oficial da Secretaria de Estado de Justiça e Segurança Pública de Mato Grosso do Sul (SEJUP-MS)
+🚨 Dataset oficial da Secretaria de Estado de Justiça e Segurança Pública de Mato Grosso do Sul (SEJUSP-MS)
 
 ## 📋 Sobre o Dataset
 
@@ -59,7 +59,7 @@ Este dataset pode ser utilizado para:
 
 ## 📚 Fonte dos Dados
 
-- Órgão: Secretaria de Estado de Justiça e Segurança Pública de Mato Grosso do Sul (SEJUP-MS)
+- Órgão: Secretaria de Estado de Justiça e Segurança Pública de Mato Grosso do Sul (SEJUSP-MS)
 - Portal: Dados Abertos MS
 
 ## 📄 Licença
